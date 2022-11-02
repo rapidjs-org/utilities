@@ -1,0 +1,8 @@
+{
+  "name": "@rapidjs.org/utilities",
+  "author": "Thassilo Martin Schiepanski",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rapidjs-org/utilities.git"
+  }
+}
